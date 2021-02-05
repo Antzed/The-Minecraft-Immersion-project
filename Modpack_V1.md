@@ -23,3 +23,18 @@
     - Dynamic surrondings
     - Sound Filter
     
+###Mobs
+1. Cores & APIs
+2. Neutral mobs
+    - Better Animal Plus
+3. Aggressive mobs
+    - Alex's mobs
+    - Rats
+    
+###Gameplay
+
+1. Cores & APIs
+2. Exploration
+    - Artifacts
+    
+    
