@@ -27,14 +27,21 @@
 1. Cores & APIs
 2. Neutral mobs
     - Better Animal Plus
+    - Aquaculture 2(testing)
+    - Mystical World(testing)
 3. Aggressive mobs
     - Alex's mobs
     - Rats
+    - AI Improvements(testing)
     
 ###Gameplay
 
 1. Cores & APIs
 2. Exploration
     - Artifacts
+3. Core mechanism
+    - Better Burning(testing)
+4. NPCs
+    - Goblin Traders(testing)
     
     
