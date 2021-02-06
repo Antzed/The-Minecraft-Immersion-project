@@ -28,12 +28,15 @@
     - Patchouli
 2. Neutral mobs
     - Better Animal Plus
-    - Aquaculture 2(testing)
-    - Mystical World(testing)
+    - Aquaculture 2
+    - Mystical World
+    - Animania Base(testing)
+    - Exotic Birds(testing)
 3. Aggressive mobs
     - Alex's mobs
     - Rats
-    - AI Improvements(testing)
+    - AI Improvements
+    - Spiders 2.0(testing)
     
 ###Gameplay
 
@@ -41,8 +44,8 @@
 2. Exploration
     - Artifacts
 3. Core mechanism
-    - Better Burning(testing)
+    - Better Burning
 4. NPCs
-    - Goblin Traders(testing)
+    - Goblin Traders
     
     
