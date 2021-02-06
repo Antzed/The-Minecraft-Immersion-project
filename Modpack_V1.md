@@ -25,6 +25,7 @@
     
 ###Mobs
 1. Cores & APIs
+    - Patchouli
 2. Neutral mobs
     - Better Animal Plus
     - Aquaculture 2(testing)
